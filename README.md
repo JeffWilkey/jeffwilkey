@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://jeffwilkey.com](https://jeffwilkey.com)
 
-- 📝 I regulary write articles on [Things I find helpful](Things I find helpful)
+- 📝 I sometimes write articles on things I find helpful
 
 - 💬 Ask me about **Node, Express, React, Rails, HTML, CSS**
 
