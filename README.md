@@ -15,8 +15,6 @@
 
 - 📫 How to reach me **contact@jeffwilkey.com**
 
-- ⚡ Fun fact **I'm shy but funny.**
-
 <p align="left">
 <h3 align="left">Connect with me:</h3>
 <a href="https://codepen.io/jeffwilkey" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="jeffwilkey" height="30" width="40" /></a>
