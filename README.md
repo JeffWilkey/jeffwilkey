@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Jeff</h1>
 <h3 align="center">A full stack dev from California.</h3>
 
-- 🔭 I’m currently working on [MANSCAPED](https://www.manscaped.com)
+- 🔭 I’m currently working at [MANSCAPED](https://www.manscaped.com)
 
 - 🌱 I’m currently learning **NEXTJS**
 
 - 👯 I’m looking to collaborate on **Open Source**
 
-- 👨‍💻 All of my projects are available at [https://jeffwilkey.com](https://jeffwilkey.com)
+- 👨‍💻 Some of my projects are available at [https://jeffwilkey.com](https://jeffwilkey.com) (hope to update soon)
 
 - 📝 I sometimes write articles on things I find helpful
 
-- 💬 Ask me about **Node, Express, React, Rails, HTML, CSS**
+- 💬 Ask me about **NodeJS, Express, NestJS, Typescript, React, Rails, HTML, CSS**
 
-- 📫 How to reach me **contact@jeffwilkey.com**
+- 📫 How to reach me: **contact@jeffwilkey.com**
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
