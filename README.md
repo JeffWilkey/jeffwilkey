@@ -17,7 +17,7 @@
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
-<a href="https://codepen.io/jeffwilkey" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="jeffwilkey" height="30" width="40" /></a>
+<a href="https://codepen.io/jeffwilkey" target="blank"><img style="background-color: white; color: white;" align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="jeffwilkey" height="30" width="40" /></a>
 <a href="https://dev.to/jeffwilkey" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="jeffwilkey" height="30" width="40" /></a>
 <a href="https://twitter.com/jeffwilkey" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="jeffwilkey" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/jeffwilkey" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="jeffwilkey" height="30" width="40" /></a>
