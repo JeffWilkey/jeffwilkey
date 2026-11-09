@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jeff</h1>
 <h3 align="center">A Full Stack Developer from California.</h3>
 
-- 🔭 I work at [MANSCAPED](https://www.manscaped.com)
-
 - 🌱 I'm a passionate life-long learner
 
 - 🧑‍🏫 I love to share my knowledge and help others succeed in any way I can
